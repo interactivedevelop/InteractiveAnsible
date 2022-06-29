@@ -1,0 +1,6 @@
+bastion_ami: ami-0f5094faf16f004eb
+region: eu-west-3
+MYIP: 207.188.170.250/32
+
+
+

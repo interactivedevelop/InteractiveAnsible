@@ -1,7 +1,0 @@
-- name: Introduction Ansible Playbooks
-  hosts: all
-  become: 'yes'
-
-  tasks: 
-    - name: Checking connection by ping
-      ping
